@@ -1,13 +1,13 @@
 [
 {
-    "name": "rose",
+    "name": "Rose",
     "color": "red",
     "description": "Has horns and very beatiful",
     "image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zmxvd2VycyUyMHJvc2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
     "maxHeight": 200
   },
  {
-    "name": "camile",
+    "name": "Camile",
     "color": "white",
     "description": "Smells funky",
     "image": "https://images.unsplash.com/photo-1599043884427-e667196523e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Zmxvd2VycyUyMGNhbW9taWxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
@@ -21,7 +21,7 @@
     "maxHeight": 30
   },
   {
-    "name": "tulip",
+    "name": "Tulip",
     "color": "pink",
     "description": "Treasure of Holland",
     "image": "https://images.unsplash.com/photo-1468327768560-75b778cbb551?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dHVsaXB8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
